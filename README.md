@@ -278,4 +278,4 @@ Role: Normal User
 ## Contact
 YASH NAGAPURE - yashnagapure35@gmail.com
 
-Project Link: 
+Project Link: https://github.com/yashn555/store-rating-platform
