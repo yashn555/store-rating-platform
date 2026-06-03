@@ -13,8 +13,6 @@ A complete full-stack web application that allows users to submit ratings for re
 - [Test Credentials](#test-credentials)
 - [API Documentation](#api-documentation)
 - [Screenshots](#screenshots)
-- [Time Spent](#time-spent)
-- [Future Improvements](#future-improvements)
 
 ## 🛠 Tech Stack
 
@@ -122,7 +120,7 @@ internship-project/
 │   └── README.md
 ├── database.sql
 └── README.md
-
+```
 
 ## 🚀 Installation Guide
 
@@ -181,7 +179,7 @@ npm install
 # The frontend will run on http://localhost:3000
 ```
 
-## 🏃 Running the Application
+## Running the Application
 
 ### Start Backend Server
 
@@ -263,82 +261,21 @@ Role: Normal User
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](https://screenshots/login.png)
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/2d6d0a84-dac0-4a38-a8e9-dcf65cb7f241" />
 
 ### Admin Dashboard
-![Admin Dashboard](https://screenshots/admin-dashboard.png)
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/50bab35a-e93d-4d47-af72-54184b583741" />
 
 ### User Store Listing
-![User Store Listing](https://screenshots/user-stores.png)
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/4e92b322-595e-488b-8c65-c810ddd89fcf" />
 
 ### Owner Dashboard
-![Owner Dashboard](https://screenshots/owner-dashboard.png)
+<img width="1915" height="915" alt="image" src="https://github.com/user-attachments/assets/81631ffe-1574-46a9-a93c-03eeab75f1b9" />
 
 ### Rating Modal
-![Rating Modal](https://screenshots/rating-modal.png)
+<img width="1580" height="849" alt="image" src="https://github.com/user-attachments/assets/a068bf9f-5dc9-45b0-96b8-ffc9a2091335" />
 
-## ⏱ Time Spent
+## Contact
+YASH NAGAPURE - yashnagapure35@gmail.com
 
-| Component | Time Spent |
-|-----------|------------|
-| Database Design & Setup | 1 hour |
-| Backend API Development | 4 hours |
-| Authentication & Middleware | 2 hours |
-| Admin Features | 2 hours |
-| User Features | 2 hours |
-| Owner Features | 1.5 hours |
-| Frontend UI Development | 5 hours |
-| Integration & Testing | 2 hours |
-| Documentation | 1 hour |
-| **Total** | **20.5 hours** |
-
-## 🔮 Future Improvements
-
-### Short-term Improvements
-- [ ] Add pagination for large data sets
-- [ ] Implement real-time notifications for new ratings
-- [ ] Add profile picture upload functionality
-- [ ] Implement password reset via email
-- [ ] Add dark mode toggle
-
-### Long-term Improvements
-- [ ] Mobile application using React Native
-- [ ] Store analytics dashboard with charts
-- [ ] Implement review comments along with ratings
-- [ ] Add store categories and filtering
-- [ ] Implement rating history timeline
-- [ ] Add export functionality for owners (PDF/Excel)
-- [ ] Implement role-based permissions system
-- [ ] Add two-factor authentication
-- [ ] Implement API rate limiting
-- [ ] Add unit tests and integration tests
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is for internship assessment purposes only.
-
-## 📧 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/internship-project](https://github.com/yourusername/internship-project)
-```
-
-This README is now properly formatted with:
-- All headings using `#` symbols correctly
-- Proper table formatting
-- Code blocks with language specifications
-- Bullet points and checklists
-- Blockquotes for important notes
-- Proper escaping of special characters
-- Consistent spacing and structure
-
-You can copy this entire content and paste it directly into your README.md file.
+Project Link: 
