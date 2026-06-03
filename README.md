@@ -73,11 +73,10 @@ A complete full-stack web application that allows users to submit ratings for re
 
 ## 📁 Project Structure
 
+```bash
 internship-project/
-│
 ├── backend/
-│   ├── config/
-│   │   └── database.js
+│   ├── config/database.js
 │   ├── controllers/
 │   │   ├── authController.js
 │   │   ├── userController.js
@@ -101,31 +100,26 @@ internship-project/
 │   ├── .env.example
 │   ├── package.json
 │   └── server.js
-│
 ├── frontend/
-│   ├── public/
-│   │   └── index.html
+│   ├── public/index.html
 │   ├── src/
 │   │   ├── components/
 │   │   │   ├── Layout/
 │   │   │   ├── Admin/
 │   │   │   ├── User/
 │   │   │   └── Owner/
-│   │   ├── context/
-│   │   │   └── AuthContext.js
+│   │   ├── context/AuthContext.js
 │   │   ├── pages/
 │   │   │   ├── Login.js
 │   │   │   ├── Register.js
 │   │   │   ├── AdminDashboard.js
 │   │   │   ├── UserDashboard.js
 │   │   │   └── OwnerDashboard.js
-│   │   ├── services/
-│   │   │   └── api.js
+│   │   ├── services/api.js
 │   │   ├── App.js
 │   │   └── index.js
 │   ├── package.json
 │   └── README.md
-│
 ├── database.sql
 └── README.md
 
